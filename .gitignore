@@ -1,6 +1,3 @@
 # ignore ALL .pdf file s
 # ignore ALL .log files
 *.pdf
-
-# ignore ALL files in ANY directory named temp
-temp/
