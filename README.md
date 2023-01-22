@@ -1,4 +1,4 @@
 # My-trial-space-to-patika-
 This respository is trial space to learn new lenguage with "patika"
 
-# !!! Please chose master branch !!!
+# !!! Please look master branch !!!
